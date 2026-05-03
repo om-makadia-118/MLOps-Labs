@@ -1,0 +1,3 @@
+user_id, movie_id, ratings, timestamp
+1 , 22, 5, 9829729101
+2, 34, 8, 3890289232
